@@ -1,4 +1,4 @@
-# 🔍 Task 1 – Network Port Scanning | Cybersecurity Internship
+# 🔍 Task 1 – Network Port Scanning | Elevate Labs Cybersecurity Internship
 
 This project demonstrates basic network reconnaissance using **Nmap** and **Wireshark**, focusing on identifying open ports in a private network. It was completed as part of the Elevate Labs Cybersecurity Internship.
 
