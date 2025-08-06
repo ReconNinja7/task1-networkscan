@@ -4,7 +4,7 @@ This project demonstrates basic network reconnaissance using **Nmap** and **Wire
 
 ---
 
-** Tools Used**
+ **Tools Used**
 - **Nmap** – For port scanning (`-sS` TCP SYN scan)
 - **Wireshark** – For packet analysis
 
@@ -24,7 +24,6 @@ This project demonstrates basic network reconnaissance using **Nmap** and **Wire
    ```bash
    nmap -sS 192.168.x.x/24
    
-**
 
 ## Nmap Scan Screenshot
 
