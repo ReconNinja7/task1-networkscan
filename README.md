@@ -23,3 +23,8 @@ This project demonstrates basic network reconnaissance using **Nmap**, focusing 
 2. Ran a TCP SYN scan using:
    ```bash
    nmap -sS 192.168.x.x/24
+
+   ##  Screenshot
+
+![Nmap Scan Output](nmap_scan.png)
+
