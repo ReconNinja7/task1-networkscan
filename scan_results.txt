@@ -1,0 +1,20 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-08-06 01:40 EDT
+Nmap scan report for XiaoQiang (192.168.31.1)
+Host is up (0.0022s latency).
+Not shown: 993 closed tcp ports (reset)
+PORT     STATE SERVICE
+53/tcp   open  domain
+80/tcp   open  http
+8192/tcp open  sophos
+8193/tcp open  sophos
+8383/tcp open  m2mservices
+8443/tcp open  https-alt
+8899/tcp open  ospf-lite
+MAC Address: 8C:53:C3:EA:13:F2 (Beijing Xiaomi Mobile Software)
+
+Nmap scan report for 192.168.31.165
+Host is up (0.000017s latency).
+All 1000 scanned ports on 192.168.31.165 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Nmap done: 256 IP addresses (2 hosts up) scanned in 2.21 seconds
