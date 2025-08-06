@@ -25,7 +25,15 @@ This project demonstrates basic network reconnaissance using **Nmap**, focusing 
    nmap -sS 192.168.x.x/24
    
 **
-   ##  Screenshot**
+   ## nmap screenshot**
 
 ![Nmap Scan Output](nmap_scan.png)
+
+## 📸 Wireshark Screenshot
+
+Below is a packet capture taken using Wireshark while running a TCP SYN scan with Nmap.  
+It shows SYN packets being sent from the scanning host (`192.168.31.165`) to multiple ports on `192.168.31.1`.
+
+![Wireshark Scan](wireshark_scan.png)
+
 
