@@ -1,6 +1,6 @@
 # 🔍 Task 1 – Network Port Scanning | Cybersecurity Internship
 
-This project demonstrates basic network reconnaissance using **Nmap**, focusing on identifying open ports in a private network. It was completed as part of the Elevate Labs Cybersecurity Internship.
+This project demonstrates basic network reconnaissance using **Nmap** and **Wireshark**, focusing on identifying open ports in a private network. It was completed as part of the Elevate Labs Cybersecurity Internship.
 
 ---
 
@@ -25,9 +25,8 @@ This project demonstrates basic network reconnaissance using **Nmap**, focusing 
    nmap -sS 192.168.x.x/24
    
 **
-   ## nmap Screenshot
 
-## 📸 Nmap Scan Screenshot
+## Nmap Scan Screenshot
 
 Below is a terminal screenshot showing the result of a **TCP SYN scan** performed using **Nmap** on the local network (`192.168.31.0/24`).
 
