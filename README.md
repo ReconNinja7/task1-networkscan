@@ -38,4 +38,8 @@ It shows SYN packets being sent from the scanning host (`192.168.31.165`) to mul
 
 ![Wireshark Scan](wireshark_scan.png)
 
+🔹 Author: ReconNinja7
+🔹 Internship: Elevate Labs Cybersecurity Internship
+🔹 Tools: Nmap, Wireshark, Kali Linux
+
 
